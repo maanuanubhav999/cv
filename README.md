@@ -1,2 +1,2 @@
-# cv
-tr
+# cv- curriculum vitae
+
